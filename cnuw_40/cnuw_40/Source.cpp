@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <math.h>
 int isTriangle(double a, double b, double c) {
-	return a + b > c && a + c > b & b + c > a;
+	return a + b > c && a + c > b && b + c > a;
 }
 int main() {
 	double a, b, c;
