@@ -2,6 +2,8 @@
 首都师范大学 moodle 平台的多数 C 语言题目参考解答.<br/>
 建议电脑访问，手机端点上面的 `view code` 查看代码. 
 
+!(https://raw.githubusercontent.com/hatsune-miku/cnu_moodle_answer/master/you_fool.jpg)
+
 每份解答都由纯 C 语言编写，都可以通过所有的测试用例(Accepted).<br/>
 ~辣鸡平台不给C++用，没有STL我要死了~<br/>
 所有的解答都是个人编写的！所以，只能作为参考，不要让我的程序限制你的思路。<br/>
