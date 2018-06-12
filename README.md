@@ -8,9 +8,9 @@
 毕竟参考解答**不一定是最优解**. ~而且还有些写的很烂~<br/>
 <br/>
 ### 开发环境
-> Visual Studio 2017
-> 少部分的 vim + Clang
-> 少部分的 Xcode
+> Visual Studio 2017<br/>
+> 少部分的 vim + Clang<br/>
+> 少部分的 Xcode<br/>
 > 警告视为错误
 <br/>
 
