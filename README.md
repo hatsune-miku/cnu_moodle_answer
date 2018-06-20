@@ -6,7 +6,7 @@
 ~辣鸡平台不给C++用，没有STL我要死了~<br/>
 所有的解答都是个人编写的！所以，只能作为参考，不要让我的程序限制你的思路。<br/>
 毕竟参考解答**不一定是最优解**. ~而且还有些写的很烂~<br/>
- 
+
 ![image](https://raw.githubusercontent.com/hatsune-miku/cnu_moodle_answer/master/you_fool.jpg)
 <br/>
 
